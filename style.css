@@ -39,7 +39,7 @@ body {
   background-color: azure;
   outline: none;
   border: none;
-  color: aliceblue;
+  color: black;
 }
 .data-form input:active {
   border-bottom: 1px solid burlywood;
